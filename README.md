@@ -1,4 +1,12 @@
-Hi 👋 My name is Digvijay! ==========================  Full-stack developer based in London  -------------------------------------  I'm self-taught web developer who like to code and learn new things. I enjoy making beautiful UI and amazing Back-Ends with node.js  * 🌍  I'm based in London * 🖥️  See my portfolio at [digvijay.tech](http://digvijay.tech) * ✉️  You can contact me at [djpadhiyar881@gmail.com](mailto:djpadhiyar881@gmail.com) * 🚀  I'm currently working on [Multiverse of Question](http://multiverseofquestion.com) * 🧠  I'm learning flutter and dart for building native mobile applications * ⚡  VENM sounds better than MEVN (Vue, Express, Node, MongoDB)
+# Hi 👋 My name is Digvijay! 
+## Full-stack developer based in London
+I'm self-taught web developer who like to code and learn new things. I enjoy making beautiful UI and amazing Back-Ends with node.js.
+* 🌍  I'm based in London
+* 🖥️  See my portfolio at [digvijay.tech](http://digvijay.tech)
+* ✉️  You can contact me at [djpadhiyar881@gmail.com](mailto:djpadhiyar881@gmail.com) 
+* 🚀  I'm currently working on [Multiverse of Question](http://multiverseofquestion.com) 
+* 🧠  I'm learning flutter and dart for building native mobile applications
+* ⚡  VENM sounds better than MEVN (Vue, Express, Node, MongoDB)
 
 ### Skills
 
