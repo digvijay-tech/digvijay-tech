@@ -1,4 +1,4 @@
-# Hi 👋 My name is Digvijay! 
+# Hi 👋 My name is digvijay! 
 ## Full-stack developer based in London
 I'm self-taught web developer who like to code and learn new things. I enjoy making beautiful UI and amazing Back-Ends with node.js.
 * 🌍  I'm based in London
