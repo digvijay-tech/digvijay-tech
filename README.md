@@ -4,8 +4,7 @@ I'm self-taught web developer who like to code and learn new things. I enjoy mak
 * 🌍  I'm based in London
 * 🖥️  See my portfolio at [digvijay.tech](http://digvijay.tech)
 * ✉️  You can contact me at [djpadhiyar881@gmail.com](mailto:djpadhiyar881@gmail.com) 
-* 🚀  I'm currently working on [Multiverse of Question](http://multiverseofquestion.com) 
-* 🧠  I'm learning flutter and dart for building native mobile applications
+* 🚀  I'm currently working on [HotelsBridge](http://hotelsbridge.com) 
 * ⚡  VENM sounds better than MEVN (Vue, Express, Node, MongoDB)
 
 ### Skills
