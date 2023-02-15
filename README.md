@@ -1,6 +1,6 @@
 # Hi 👋 I'm Digvijay - Full Stack Developer | Node.js | Express | Vue.js"
 
-Hello there! I'm Digvijay, a self-taught web developer who is passionate about coding and always eager to learn new things. With a focus on Node.js, I enjoy creating stunning UIs and powerful back-ends that elevate user experiences. Let's collaborate and create something awesome!
+Hello there! I'm Digvijay, a self-taught fullstack developer who is passionate about coding and always eager to learn new things. With a focus on Node.js, I enjoy creating stunning UIs and powerful back-ends that elevate user experiences. Let's collaborate and create something awesome!
 * 🌍  I'm based in London
 * 🖥️  See my portfolio at [digvijay.tech](http://digvijay.tech)
 * ✉️  You can contact me at [djpadhiyar881@gmail.com](mailto:djpadhiyar881@gmail.com) 
